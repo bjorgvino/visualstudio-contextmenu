@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>visualstudio-contextmenu</id>
+    <title>Visual Studio Build from context menu</title>
+    <version>0.1.0.20141027</version>
+    <authors>Bjorgvin Olafsson</authors>
+    <owners>Bjorgvin Olafsson</owners>
+    <description>
+      This package adds a context menu to .sln files and folders that enables building solutions from Windows Explorer without opening up Visual Studio.
+      Current versions supported:
+      - Visual Studio 2010 on Windows 7
+    </description>
+    <projectUrl>http://www.github.com/bjorgvino/visualstudio2010-contextmenu</projectUrl>
+    <tags>visualstudio2010 vs2010</tags>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>http://www.myapp.tld/logo.png</iconUrl>-->
+  </metadata>
+</package>
